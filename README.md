@@ -1,2 +1,2 @@
 # AlphaPCGML
-CMPUT 652
+CMPUT 652 Project
